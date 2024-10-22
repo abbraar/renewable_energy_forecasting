@@ -13,6 +13,11 @@ The dataset includes **hourly records** of wind and solar energy production (in 
 
 ## Project Workflow
 
+Before we dive into the details of the project steps, here's an overview of the entire workflow:
+
+![Project Workflow](https://raw.githubusercontent.com/abbraar/renewable_energy_forecasting/8980eacf3b6d79078e0c8f76be20dcfe38552085/project_workflow.png)
+
+
 ### 1. Data Gathering & Preparation
 - **Data Collection**: Retrieved hourly records for wind and solar production.
 - **Datetime Processing**: Renamed and converted datetime columns for consistency.
@@ -48,19 +53,19 @@ After evaluating the models, **Prophet** was chosen as the best model for solar 
 
 ## Deployment
 
-### 1. Model Export
+#### 1. Model Export
 - The trained Prophet model was exported using **Pickle** for use in deployment.
 
-### 2. API Development
+#### 2. API Development
 - We wrapped the model in an API using **FastAPI**.
 
-### 3. Dockerization
+#### 3. Dockerization
 - Created and deployed a Docker container for the API.
 
-### 4. Deployment
+#### 4. Deployment
 - The FastAPI app was deployed on **Render** for public access.
 
-### 5. Streamlit Application
+#### 5. Streamlit Application
 We also built a **Streamlit app** to serve the forecasting model as a web service. The app was tested and deployed, allowing users to interact with the forecasting tool.
 
 ## Conclusion
