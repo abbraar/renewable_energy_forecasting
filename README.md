@@ -1,4 +1,22 @@
-# Solar Production Forecasting Project
+# *Solar Production Forecasting Project*
+## Contributors
+
+
+<p>
+  <a href="https://github.com/Al-Muhannad" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/105214400?v=4" width="100" height="100" alt="Al-Muhannad" style="border-radius: 50%; margin: 10px; border: 2px solid #ccc;">
+  </a>
+  <a href="https://github.com/abbraar" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/128230577?v=4" width="100" height="100" alt="abbraar" style="border-radius: 50%; margin: 10px; border: 2px solid #ccc;">
+  </a>
+     <a href="https://github.com/Aeshah94" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/86664140?v=4" width="100" height="100" alt="Aeshah94" style="border-radius: 50%; margin: 10px; border: 2px solid #ccc;">
+  </a>
+     <a href="https://github.com/Nouraalhazyim" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/169162032?v=4" width="100" height="100" alt="Nouraalhazyim" style="border-radius: 50%; margin: 10px; border: 2px solid #ccc;">
+  </a>
+</p>
+
 
 ## Overview
 This project focuses on **solar production forecasting** for the French energy grid. Using historical data on solar energy production, we implemented various machine learning models to predict future energy production, ultimately deploying the best-performing model for public use. The goal is to help **renewable energy producers** accurately forecast their production and receive fair compensation, as per French energy regulations.
