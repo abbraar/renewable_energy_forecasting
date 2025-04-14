@@ -4,16 +4,16 @@
 
 <p>
   <a href="https://github.com/Al-Muhannad" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/105214400?v=4" width="100" height="100" alt="Al-Muhannad" style="border-radius: 50%; margin: 10px; border: 2px solid #ccc;">
+    <img src="https://avatars.githubusercontent.com/u/105214400?v=4" width="100" height="100" alt="Al-Muhannad" >
   </a>
   <a href="https://github.com/abbraar" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/128230577?v=4" width="100" height="100" alt="abbraar" style="border-radius: 50%; margin: 10px; border: 2px solid #ccc;">
+    <img src="https://avatars.githubusercontent.com/u/128230577?v=4" width="100" height="100" alt="abbraar" >
   </a>
      <a href="https://github.com/Aeshah94" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/86664140?v=4" width="100" height="100" alt="Aeshah94" style="border-radius: 50%; margin: 10px; border: 2px solid #ccc;">
+    <img src="https://avatars.githubusercontent.com/u/86664140?v=4" width="100" height="100" alt="Aeshah94" >
   </a>
      <a href="https://github.com/Nouraalhazyim" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/169162032?v=4" width="100" height="100" alt="Nouraalhazyim" style="border-radius: 50%; margin: 10px; border: 2px solid #ccc;">
+    <img src="https://avatars.githubusercontent.com/u/169162032?v=4" width="100" height="100" alt="Nouraalhazyim" >
   </a>
 </p>
 
